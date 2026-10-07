@@ -229,3 +229,105 @@ Note
 This practice is part of my Python fundamentals review and consolidation.
 
 The purpose of this record is to track my progress and maintain evidence of the practices completed throughout my studies.
+
+Variáveis e tipos de dados em Python
+
+🇧🇷 Português
+
+O que aprendi
+
+Neste exercício, pratiquei a criação de variáveis em Python e a identificação dos tipos de dados armazenados nelas.
+
+Trabalhei com:
+
+- "str" — texto
+- "bool" — valores booleanos ("True" e "False")
+- "int" — números inteiros
+- "float" — números decimais
+
+Exemplo
+
+name = 'Alice'
+print(name, type(name))
+
+is_student = True
+print(is_student, type(is_student))
+
+age = 20
+print(age, type(age))
+
+score = 80.5
+print(isinstance(score, float))
+
+print(score, type(score))
+
+O que pratiquei
+
+Usei "type()" para verificar o tipo de um valor:
+
+print(type(name))
+
+Também usei "isinstance()" para verificar se um valor pertence a determinado tipo:
+
+print(isinstance(score, float))
+
+Meu aprendizado
+
+Aprendi que uma variável pode armazenar diferentes tipos de valores e que Python permite verificar o tipo desses valores durante a execução do programa.
+
+Também pratiquei a diferença entre "type()" e "isinstance()".
+
+Próximos passos
+
+Continuar estudando os tipos de dados e praticar operações com eles.
+
+---
+
+🇺🇸 English
+
+What I learned
+
+In this exercise, I practiced creating variables in Python and identifying the types of data stored in them.
+
+I worked with:
+
+- "str" — text
+- "bool" — boolean values ("True" and "False")
+- "int" — integer numbers
+- "float" — decimal numbers
+
+Example
+
+name = 'Alice'
+print(name, type(name))
+
+is_student = True
+print(is_student, type(is_student))
+
+age = 20
+print(age, type(age))
+
+score = 80.5
+print(isinstance(score, float))
+
+print(score, type(score))
+
+What I practiced
+
+I used "type()" to check the type of a value:
+
+print(type(name))
+
+I also used "isinstance()" to check whether a value belongs to a specific type:
+
+print(isinstance(score, float))
+
+What I learned
+
+I learned that a variable can store different types of values and that Python allows us to check the type of these values during program execution.
+
+I also practiced the difference between "type()" and "isinstance()".
+
+Next steps
+
+Continue studying data types and practice operations with them.
