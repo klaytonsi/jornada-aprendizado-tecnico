@@ -19,9 +19,13 @@ O objetivo não é apenas armazenar exercícios, mas documentar como estou apren
 
 ## Fontes de estudo
 
+### FreeAcademy
+
+Estudos de SQL por meio de lições, exercícios, desafios e prática.
+
 ### freeCodeCamp
 
-Estudos de Python e SQL, incluindo exercícios e conteúdos relacionados aos fundamentos.
+Estudos de Python, com foco em fundamentos, exercícios e prática progressiva.
 
 ### Data Science Academy
 
@@ -76,9 +80,13 @@ The goal is not only to store exercises, but also to document how I am learning:
 
 ## Study sources
 
+### FreeAcademy
+
+SQL studies through lessons, exercises, challenges, and practical activities.
+
 ### freeCodeCamp
 
-Python and SQL studies, including exercises and content related to fundamentals.
+Python studies focused on fundamentals, exercises, and progressive practice.
 
 ### Data Science Academy
 
