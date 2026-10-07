@@ -1,8 +1,8 @@
-# Python — Fundamentos
+Python — Fundamentos
 
-## 🇧🇷 Português
+🇧🇷 Português
 
-### Conteúdos estudados
+Conteúdos estudados
 
 Até este momento, estudei os seguintes fundamentos de Python:
 
@@ -10,81 +10,34 @@ Até este momento, estudei os seguintes fundamentos de Python:
 - Regras para nomes de variáveis
 - Case sensitivity
 - Tipos de dados:
-  - `int`
-  - `float`
-  - `str`
-  - `bool`
+  - "int"
+  - "float"
+  - "str"
+  - "bool"
 - Tipagem dinâmica
-- `print()`
-- `type()`
-- `isinstance()`
+- "print()"
+- "type()"
+- "isinstance()"
 - Operadores aritméticos
 
-### Prática realizada
+Prática realizada
 
 Pratiquei os conceitos por meio de exercícios envolvendo:
 
 - criação e atribuição de variáveis;
 - identificação de tipos de dados;
-- utilização de `print()`;
-- utilização de `type()`;
-- utilização de `isinstance()`;
+- utilização de "print()";
+- utilização de "type()";
+- utilização de "isinstance()";
 - operações matemáticas básicas.
-
-### O que estou construindo
-
-O objetivo desta etapa é construir uma base nos fundamentos da linguagem Python antes de avançar para conceitos mais complexos.
-
-Este registro será atualizado conforme novos conteúdos forem estudados e praticados.
 
 ---
 
-## 🇺🇸 English
+Prática de revisão — Variáveis, tipos de dados e funções básicas
 
-### Topics studied
+Nesta sessão, revisei e pratiquei conceitos relacionados a variáveis, tipos de dados, funções e saída no terminal.
 
-So far, I have studied the following Python fundamentals:
-
-- Variables and assignment
-- Variable naming rules
-- Case sensitivity
-- Data types:
-  - `int`
-  - `float`
-  - `str`
-  - `bool`
-- Dynamic typing
-- `print()`
-- `type()`
-- `isinstance()`
-- Arithmetic operators
-
-### Practice
-
-I practiced these concepts through exercises involving:
-
-- creating and assigning variables;
-- identifying data types;
-- using `print()`;
-- using `type()`;
-- using `isinstance()`;
-- performing basic mathematical operations.
-
-### What I am building
-
-The goal of this stage is to build a foundation in Python fundamentals before moving on to more advanced concepts.
-
-This record will be updated as I study and practice new topics.
-
-Variáveis, Tipos de Dados e Funções Básicas — Python
-
-🇧🇷 Português
-
-O que pratiquei hoje
-
-Hoje revisei e pratiquei alguns fundamentos de Python relacionados a variáveis, tipos de dados, funções e saída no terminal.
-
-Como já havia estudado Python anteriormente, esta sessão serviu principalmente para reforçar conceitos fundamentais e registrar a prática realizada.
+Como já havia estudado Python anteriormente, esta sessão teve como objetivo reforçar fundamentos e registrar uma prática realizada durante meus estudos.
 
 1. Variáveis e atribuição
 
@@ -96,9 +49,9 @@ Nesse exemplo, "name" é a variável que recebe o valor "'Alice'".
 
 2. Tipo "str"
 
-O valor "'Alice'" é uma string ("str"), utilizada para representar uma sequência de caracteres.
+O valor "'Alice'" é do tipo "str", utilizado para representar uma sequência de caracteres.
 
-Também pratiquei a identificação do tipo de uma variável utilizando "type()".
+Também pratiquei a identificação do tipo de uma variável utilizando "type()":
 
 type(name)
 
@@ -116,17 +69,11 @@ Nesse caso, o conteúdo armazenado na variável "name" é exibido.
 
 4. Aninhamento de funções
 
-Também pratiquei a utilização do retorno de uma função como argumento para outra função:
+Também pratiquei a utilização do resultado de uma função como argumento para outra:
 
 print(type(name))
 
-O Python primeiro avalia:
-
-type(name)
-
-e depois passa o resultado para:
-
-print()
+Nesse exemplo, "type(name)" é avaliado e seu resultado é passado para "print()".
 
 Isso permite visualizar diretamente o tipo da variável no terminal.
 
@@ -151,9 +98,9 @@ Resultado esperado
 Alice
 <class 'str'>
 
-O que reforço com esta prática
+O que reforcei com esta prática
 
-- Atribuição de valores a variáveis;
+- atribuição de valores a variáveis;
 - utilização do tipo "str";
 - identificação de tipos com "type()";
 - utilização de "print()";
@@ -163,17 +110,50 @@ O que reforço com esta prática
 
 Observação
 
-Esta prática faz parte da minha revisão e consolidação dos fundamentos de Python. O objetivo do registro é acompanhar minha evolução e manter evidências das práticas realizadas durante os estudos.
+Esta prática faz parte da minha revisão e consolidação dos fundamentos de Python.
+
+O objetivo deste registro é acompanhar minha evolução e manter evidências das práticas realizadas durante os estudos.
 
 ---
 
 🇺🇸 English
 
-What I practiced today
+Topics studied
 
-Today I reviewed and practiced some Python fundamentals related to variables, data types, functions, and terminal output.
+So far, I have studied the following Python fundamentals:
 
-Since I had already studied Python before, this session was mainly focused on reinforcing fundamental concepts and documenting the practice completed today.
+- Variables and assignment
+- Variable naming rules
+- Case sensitivity
+- Data types:
+  - "int"
+  - "float"
+  - "str"
+  - "bool"
+- Dynamic typing
+- "print()"
+- "type()"
+- "isinstance()"
+- Arithmetic operators
+
+Practice
+
+I practiced these concepts through exercises involving:
+
+- creating and assigning variables;
+- identifying data types;
+- using "print()";
+- using "type()";
+- using "isinstance()";
+- performing basic mathematical operations.
+
+---
+
+Review Practice — Variables, Data Types, and Basic Functions
+
+In this session, I reviewed and practiced concepts related to variables, data types, functions, and terminal output.
+
+Since I had already studied Python before, this session was focused on reinforcing fundamentals and documenting a practice session completed during my studies.
 
 1. Variables and assignment
 
@@ -185,9 +165,9 @@ In this example, "name" is the variable that receives the value "'Alice'".
 
 2. "str" type
 
-The value "'Alice'" is a string ("str"), which is used to represent a sequence of characters.
+The value "'Alice'" has the "str" type, which is used to represent a sequence of characters.
 
-I also practiced identifying the type of a variable using "type()".
+I also practiced identifying the type of a variable using "type()":
 
 type(name)
 
@@ -205,17 +185,11 @@ In this case, the content stored in the "name" variable is displayed.
 
 4. Function nesting
 
-I also practiced using the return value of one function as an argument for another function:
+I also practiced using the result of one function as an argument for another:
 
 print(type(name))
 
-Python first evaluates:
-
-type(name)
-
-and then passes the result to:
-
-print()
+In this example, "type(name)" is evaluated and its result is passed to "print()".
 
 This makes it possible to display the variable's type directly in the terminal.
 
@@ -242,7 +216,7 @@ Alice
 
 What I reinforced with this practice
 
-- Assigning values to variables;
+- assigning values to variables;
 - using the "str" type;
 - identifying types with "type()";
 - using "print()";
@@ -252,4 +226,6 @@ What I reinforced with this practice
 
 Note
 
-This practice is part of my Python fundamentals review and consolidation. The purpose of this record is to track my progress and maintain evidence of the practices completed throughout my studies.
+This practice is part of my Python fundamentals review and consolidation.
+
+The purpose of this record is to track my progress and maintain evidence of the practices completed throughout my studies.
